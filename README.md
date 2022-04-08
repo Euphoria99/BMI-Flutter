@@ -9,6 +9,6 @@ Feedback on Body mass index (BMI) to measure body fat based on height and weight
 - [Design Credits](https://www.behance.net/gallery/75656331/BMI-Calculator-App)
 
 
-
+![project image](https://github.com/Euphoria99/BMI-Flutter/blob/master/mockup/calculator.png)
 
 
