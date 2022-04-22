@@ -16,12 +16,11 @@ class RightBar extends StatelessWidget {
           height: 25,
           width: barWidth,
           decoration: BoxDecoration(
-            borderRadius: BorderRadius.only(
-              topLeft: Radius.circular(20),
-             bottomLeft: Radius.circular(20),
+              borderRadius: BorderRadius.only(
+                topRight: Radius.circular(20),
+                bottomRight: Radius.circular(20),
               ),
-              color: accentHexColor
-          ),
+              color: accentHexColor),
         )
       ],
     );
